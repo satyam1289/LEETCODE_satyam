@@ -13,10 +13,12 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
+| [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -34,6 +37,7 @@
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
+| [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
