@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
