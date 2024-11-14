@@ -1,23 +1,23 @@
 import java.util.*;
 
 class Solution {
-    public int minimizedMaximum(int n, int[] quantities) {
-        int left = 1;
-        int right = Arrays.stream(quantities).max().getAsInt();
+    public int minimizedMaximum(int stores, int[] quantities) {
+        int low = 1;
+        int high = Arrays.stream(quantities).max().getAsInt();
 
-        while (left < right) {
-            int mid = (left + right) / 2;
-            int req = 0;
-            for (int num : quantities) {
-                req += (num + mid - 1) / mid; 
+        while (low < high) {
+            int mid = (low + high) / 2;
+            int requiredStores = 0;
+            for (int quantity : quantities) {
+                requiredStores += (quantity + mid - 1) / mid; 
             }
 
-            if (req > n) {
-                left = mid + 1;
+            if (requiredStores > stores) {
+                low = mid + 1;
             } else {
-                right = mid;
+                high = mid;
             }
         }
-        return left;
+        return low;
     }
 }
