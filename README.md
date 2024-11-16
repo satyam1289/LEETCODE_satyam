@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
