@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -39,6 +40,7 @@
 | [0278-first-bad-version](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -123,6 +125,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -163,4 +166,20 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
