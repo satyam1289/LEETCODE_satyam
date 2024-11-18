@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
