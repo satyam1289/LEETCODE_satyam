@@ -23,6 +23,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -122,6 +123,7 @@
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
