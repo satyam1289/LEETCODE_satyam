@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -163,6 +164,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
