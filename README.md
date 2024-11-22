@@ -15,6 +15,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
