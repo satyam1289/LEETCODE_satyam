@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
+| [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
+| [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
+| [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1972-rotating-the-box) |
