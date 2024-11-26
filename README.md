@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+| [3189-find-champion-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3189-find-champion-ii) |
 ## Simulation
 |  |
 | ------- |
