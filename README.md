@@ -35,6 +35,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
 | [3189-find-champion-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Simulation
 |  |
 | ------- |
