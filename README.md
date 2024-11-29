@@ -186,6 +186,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
@@ -246,4 +247,12 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
