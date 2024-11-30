@@ -91,6 +91,7 @@
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+| [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3189-find-champion-ii) |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
