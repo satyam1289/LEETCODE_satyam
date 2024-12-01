@@ -86,12 +86,14 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
@@ -103,6 +105,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -138,6 +141,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
