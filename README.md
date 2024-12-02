@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
