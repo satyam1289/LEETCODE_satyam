@@ -115,6 +115,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0132-palindrome-partitioning-ii) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -187,6 +188,7 @@
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
