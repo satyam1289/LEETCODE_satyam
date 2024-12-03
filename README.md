@@ -161,6 +161,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
