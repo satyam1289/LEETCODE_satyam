@@ -95,6 +95,7 @@
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -111,6 +112,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -123,6 +125,7 @@
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## String
 |  |
@@ -172,6 +175,7 @@
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
