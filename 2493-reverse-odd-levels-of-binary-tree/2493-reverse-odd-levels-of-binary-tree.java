@@ -39,7 +39,7 @@ class Solution {
             levelNodesList.add(currentLevelNodes);
         }
 
-        // Reverse values at odd levels
+        
         for (int levelIndex = 0; levelIndex < levelNodesList.size(); levelIndex++) {
             if (levelIndex % 2 == 1) {
                 List<TreeNode> currentLevelNodes = levelNodesList.get(levelIndex);
@@ -47,7 +47,7 @@ class Solution {
                 int rightIndex = currentLevelNodes.size() - 1;
 
                 while (leftIndex < rightIndex) {
-                    // Swap values
+                    
                     int temp = currentLevelNodes.get(leftIndex).val;
                     currentLevelNodes.get(leftIndex).val = currentLevelNodes.get(rightIndex).val;
                     currentLevelNodes.get(rightIndex).val = temp;
