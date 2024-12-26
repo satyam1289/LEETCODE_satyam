@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
@@ -226,6 +227,7 @@
 | [0338-counting-bits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
+| [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
