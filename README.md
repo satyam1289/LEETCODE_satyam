@@ -31,6 +31,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1917-maximum-average-pass-ratio) |
@@ -182,6 +183,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
@@ -235,6 +237,7 @@
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
