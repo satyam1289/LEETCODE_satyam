@@ -241,6 +241,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
