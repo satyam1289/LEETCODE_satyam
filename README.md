@@ -23,6 +23,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
+| [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -236,6 +237,7 @@
 | [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
