@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -377,6 +378,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1046-max-consecutive-ones-iii) |
 | [3427-special-array-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3427-special-array-ii) |
