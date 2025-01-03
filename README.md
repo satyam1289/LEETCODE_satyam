@@ -36,6 +36,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1972-rotating-the-box) |
@@ -74,6 +75,7 @@
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -118,6 +120,7 @@
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1675-magnetic-force-between-two-balls) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
@@ -303,6 +306,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
