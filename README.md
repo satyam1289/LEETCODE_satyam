@@ -76,6 +76,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -196,6 +197,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
@@ -392,6 +395,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3427-special-array-ii) |
