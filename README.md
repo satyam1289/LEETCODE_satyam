@@ -196,6 +196,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0392-is-subsequence) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1537-maximum-score-after-splitting-a-string) |
