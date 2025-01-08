@@ -203,6 +203,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0392-is-subsequence) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1524-string-matching-in-an-array) |
@@ -346,6 +347,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
