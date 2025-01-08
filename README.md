@@ -20,6 +20,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -341,6 +342,7 @@
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
