@@ -16,6 +16,7 @@
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
+| [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -342,6 +344,7 @@
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
