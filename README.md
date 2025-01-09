@@ -349,6 +349,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -360,6 +361,7 @@
 | [0042-trapping-rain-water](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -520,4 +522,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
