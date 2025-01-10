@@ -27,6 +27,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
@@ -85,6 +86,7 @@
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
+| [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -204,6 +206,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0392-is-subsequence) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
+| [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
