@@ -476,10 +476,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
 ## Eulerian Circuit
 |  |
