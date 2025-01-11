@@ -21,6 +21,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0792-binary-search) |
@@ -354,6 +355,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -462,6 +464,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2692-take-gifts-from-the-richest-pile) |
