@@ -315,6 +315,7 @@
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
@@ -405,6 +406,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
