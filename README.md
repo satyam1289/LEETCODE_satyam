@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
@@ -256,6 +257,7 @@
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
@@ -441,6 +444,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1917-maximum-average-pass-ratio) |
