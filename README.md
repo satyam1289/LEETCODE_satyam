@@ -49,6 +49,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1876-map-of-highest-peak](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1917-maximum-average-pass-ratio) |
@@ -269,6 +270,7 @@
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -313,6 +315,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2343-count-unguarded-cells-in-the-grid) |
