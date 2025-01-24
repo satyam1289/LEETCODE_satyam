@@ -170,6 +170,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -193,6 +194,7 @@
 | [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -213,6 +215,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -602,4 +605,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
