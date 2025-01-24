@@ -188,6 +188,7 @@
 | [0463-island-perimeter](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
@@ -267,6 +268,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
@@ -496,6 +498,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -592,4 +595,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
