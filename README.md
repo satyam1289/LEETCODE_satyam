@@ -170,6 +170,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
@@ -217,6 +218,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
@@ -620,5 +622,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
