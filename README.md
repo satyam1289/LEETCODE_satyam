@@ -89,6 +89,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3429-special-array-i) |
