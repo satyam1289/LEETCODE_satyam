@@ -178,6 +178,7 @@
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -205,6 +206,7 @@
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
@@ -228,6 +230,7 @@
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -319,6 +322,7 @@
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
