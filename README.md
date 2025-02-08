@@ -117,6 +117,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -503,6 +504,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -606,6 +608,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
@@ -627,6 +630,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
+| [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
