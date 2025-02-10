@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 class Solution {
     public String clearDigits(String input) {
         Stack<Character> charStack = new Stack<>();
