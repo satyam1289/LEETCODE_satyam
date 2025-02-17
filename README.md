@@ -111,6 +111,7 @@
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -258,6 +259,7 @@
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1502-construct-k-palindrome-strings) |
@@ -383,6 +385,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1502-construct-k-palindrome-strings) |
@@ -501,6 +504,7 @@
 | ------- |
 | [0046-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
