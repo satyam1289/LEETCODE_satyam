@@ -64,6 +64,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2089-maximum-matrix-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -120,6 +121,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
@@ -275,6 +277,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -511,6 +514,7 @@
 | [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
