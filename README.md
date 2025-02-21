@@ -115,6 +115,7 @@
 | [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1502-construct-k-palindrome-strings) |
@@ -195,6 +196,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -224,6 +226,7 @@
 | [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
@@ -247,6 +250,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -317,6 +321,7 @@
 | [0884-k-similar-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0884-k-similar-strings) |
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1876-map-of-highest-peak) |
@@ -664,6 +669,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
