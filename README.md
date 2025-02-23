@@ -30,6 +30,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
@@ -110,6 +111,7 @@
 | [0001-two-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0133-clone-graph) |
 | [0496-next-greater-element-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0496-next-greater-element-i) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1160-letter-tile-possibilities) |
@@ -192,6 +194,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
@@ -246,6 +249,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1008-binary-tree-cameras) |
@@ -690,4 +694,8 @@
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0975-range-sum-of-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
