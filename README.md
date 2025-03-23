@@ -398,6 +398,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
@@ -647,6 +648,7 @@
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -679,6 +681,7 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Linked List
@@ -757,6 +760,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
 | ------- |
