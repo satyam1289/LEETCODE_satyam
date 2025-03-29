@@ -107,6 +107,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -211,6 +212,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
@@ -526,6 +528,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -537,6 +540,7 @@
 | [0937-online-stock-span](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
@@ -555,6 +559,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -573,11 +578,13 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 ## Union Find
 |  |
 | ------- |
