@@ -576,6 +576,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -809,4 +810,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
