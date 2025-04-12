@@ -167,6 +167,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
@@ -580,6 +581,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -716,6 +718,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
+| [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 ## Shortest Path
 |  |
 | ------- |
@@ -814,4 +817,5 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
