@@ -432,6 +432,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -579,6 +580,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2649-count-total-number-of-colored-cells) |
@@ -611,6 +613,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
@@ -726,6 +729,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 ## Shortest Path
 |  |
