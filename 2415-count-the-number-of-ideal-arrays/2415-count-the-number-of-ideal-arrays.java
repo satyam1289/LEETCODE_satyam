@@ -4,7 +4,7 @@ class Solution {
     int[][] combinations = new int[10001][14];
 
     public Solution() {
-        // Precompute combinations (nCr)
+        
         for (int n = 0; n < 10001; n++) {
             for (int r = 0; r <= Math.min(n, 13); r++) {
                 combinations[n][r] = (r == 0 || r == n) ? 1 : 
@@ -12,7 +12,7 @@ class Solution {
             }
         }
 
-        // Precompute counts of sequences for each divisor
+       
         for (int divisor = 1; divisor < 10001; divisor++) {
             divisorCount[divisor][0]++;
             for (int multiple = divisor * 2; multiple < 10001; multiple += divisor) {
