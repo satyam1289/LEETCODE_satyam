@@ -150,6 +150,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -577,6 +578,7 @@
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
