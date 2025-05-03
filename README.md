@@ -38,6 +38,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1319-unique-number-of-occurrences) |
@@ -612,6 +613,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0605-can-place-flowers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2089-maximum-matrix-sum) |
