@@ -138,6 +138,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -472,6 +473,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -686,6 +688,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -733,6 +736,7 @@
 | [3189-find-champion-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -761,6 +765,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
 | ------- |
