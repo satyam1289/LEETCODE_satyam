@@ -123,6 +123,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -634,6 +635,7 @@
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Number Theory
 |  |
 | ------- |
