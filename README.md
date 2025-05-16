@@ -124,6 +124,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
@@ -372,6 +373,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -455,6 +457,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
