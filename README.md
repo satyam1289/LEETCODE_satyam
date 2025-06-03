@@ -51,6 +51,7 @@
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -418,6 +419,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
@@ -752,6 +754,7 @@
 | [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0871-keys-and-rooms) |
 | [1275-validate-binary-tree-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1275-validate-binary-tree-nodes) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
