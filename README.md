@@ -84,6 +84,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2262-solving-questions-with-brainpower) |
@@ -174,6 +175,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -373,6 +375,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -768,6 +771,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -890,6 +894,7 @@
 | [0820-find-eventual-safe-states](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Binary Search Tree
 |  |
 | ------- |
