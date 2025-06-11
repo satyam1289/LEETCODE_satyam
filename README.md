@@ -399,6 +399,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3637-count-number-of-balanced-permutations) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -563,6 +564,7 @@
 | [3483-alternating-groups-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -750,6 +752,7 @@
 | [3427-special-array-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -914,6 +917,7 @@
 | [2998-count-symmetric-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Merge Sort
 |  |
 | ------- |
