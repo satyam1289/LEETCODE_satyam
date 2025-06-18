@@ -134,6 +134,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -259,6 +260,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
@@ -675,6 +677,7 @@
 | [2716-prime-subtraction-operation](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Number Theory
 |  |
 | ------- |
