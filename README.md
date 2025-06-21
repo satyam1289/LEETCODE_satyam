@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0238-product-of-array-except-self) |
@@ -579,6 +580,7 @@
 | [0075-sort-colors](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -631,6 +633,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0371-sum-of-two-integers) |
 | [0464-can-i-win](https://github.com/satyam1289/LEETCODE_satyam/tree/master/0464-can-i-win) |
