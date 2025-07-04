@@ -944,4 +944,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/satyam1289/LEETCODE_satyam/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/satyam1289/LEETCODE_satyam/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
