@@ -661,6 +661,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/satyam1289/LEETCODE_satyam/tree/master/3637-count-number-of-balanced-permutations) |
